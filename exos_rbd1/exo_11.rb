@@ -9,3 +9,10 @@ loop do
         break
     end
 end
+
+#puts "Bonjour, donne moi un nombre ?"
+#print "> "
+#nombre = gets.chomp
+#nombre.to_i.times do
+#    puts "ca farte ?"
+#end
